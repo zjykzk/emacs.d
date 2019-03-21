@@ -70,6 +70,7 @@
 (require 'init-dired)
 (require 'init-editing-utils)
 (require 'init-recentf)
+(require 'init-term)
 
 ;; Extra packages which don't require any configuration
 
